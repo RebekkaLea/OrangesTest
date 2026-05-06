@@ -6,7 +6,7 @@
 <prolog class="- topic/prolog ">
   <author translate="no" type="creator" class="- topic/author ">Rebekka Andersen &lt;randersen@ucdavis.edu&gt;</author><metadata class="- topic/metadata "><keywords class="- topic/keywords "/></metadata></prolog>
 <conbody class="- topic/body  concept/conbody ">
-<p class="- topic/p ">This paragraph describes benefit number 1. Consider accessing the awesome website <xref class="- topic/xref ">https://en.wikipedia.org/wiki/Banana_pepper</xref></p>
+<p class="- topic/p ">This paragraph describes benefit number 1. Consider accessing the awesome website <xref href="https://en.wikipedia.org/wiki/Banana_pepper">Wikipedia</xref></p>
 <p class="- topic/p "> And this paragraph describes benefit number 2.</p>
 <p class="- topic/p ">And this paragraph describes the final benefit.
 <ul class="- topic/ul ">
